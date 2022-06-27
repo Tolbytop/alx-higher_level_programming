@@ -1,1 +1,1 @@
-Hello, World
+First set of tasks for python
