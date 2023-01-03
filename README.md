@@ -15,10 +15,6 @@ track at ALX Africa.
 * [0x09-python-everything_is_object](./0x09-python-everything_is_object)
 
 
-## Author :
-
-* **Victor Uwazurike** <[victoruwazurike1](https://github.com/victoruwazurike1)>
-
 ## Acknowledgements :pray:
 
 All work contained in this project was completed as part of the curriculum for
